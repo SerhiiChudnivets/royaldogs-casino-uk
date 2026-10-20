@@ -5,7 +5,7 @@
   "url": "royaldogs-casino.uk",
   "template": "tupchiy",
   "language_code": "en-GB",
-  "allow_indexing": false,
+  "allow_indexing": true,
   "redirect_404s_to_homepage": true,
   "use_www_version": false,
   "breadcrumbs": true,
@@ -275,8 +275,8 @@
       "question": "What happens after I activate self-exclusion?"
     }
   ],
-  "_generated_at": "2026-10-20T11:47:27.992Z",
+  "_generated_at": "2026-10-20T11:47:50.577Z",
   "_version": "1.0.0",
-  "_last_deploy": "2026-10-20T11:47:28.620Z",
-  "_deploy_trigger": "uw4kie"
+  "_last_deploy": "2026-10-20T11:47:51.154Z",
+  "_deploy_trigger": "1wmf1"
 }
