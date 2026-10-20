@@ -74,13 +74,13 @@
   "tagline": "Up to €10,000 Across Your First 5 Deposits",
   "features_list": null,
   "footer_text": "© 2026. RoyalDogs Casino. All rights reserved",
-  "popup_text": "🎁 Join RoyalDogs Casino and claim your 777% welcome bonus up to €10,000!",
+  "popup_text": "🎁 Claim 777% up to €10,000 at RoyalDogs!",
   "faq_title": "FAQ",
   "login_text": "Login",
   "register_text": "Sign Up",
   "slots_title": "Slots",
   "bonus_title": "Bonuses and Promotions ",
-  "get_bonus_btn_text": "Explore Now",
+  "get_bonus_btn_text": "Join",
   "redirect_link": "/play/",
   "home_name": "RoyalDogs Casino",
   "subdomains": null,
@@ -275,8 +275,8 @@
       "question": "What happens after I activate self-exclusion?"
     }
   ],
-  "_generated_at": "2026-10-20T11:47:50.577Z",
+  "_generated_at": "2026-10-20T11:52:14.189Z",
   "_version": "1.0.0",
-  "_last_deploy": "2026-10-20T11:47:51.154Z",
-  "_deploy_trigger": "1wmf1"
+  "_last_deploy": "2026-10-20T11:52:14.746Z",
+  "_deploy_trigger": "l0tvyc"
 }
